@@ -8,13 +8,14 @@ For this project to work you will need [Composer](https://getcomposer.org/) (A D
 -----------
 Follow the steps above👀 to make it work.
 
+```bash
+git clone https://github.com/bernard-goga/swapi-slim.git
+```
+
 > Create e new database on your machine and import swapi-slim.sql 
 > Edit `.env` file with your database configurations. 
 > Open gitbash and navigate to your local server root
 
-```bash
-git clone https://github.com/bernard-goga/swapi-slim.git
-```
 ```bash
 cd swapi-slim
 ```
